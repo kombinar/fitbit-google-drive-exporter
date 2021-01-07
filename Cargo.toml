@@ -1,0 +1,9 @@
+[package]
+name = "fitbit-google-drive-exporter"
+version = "0.1.0"
+authors = ["Bartosz Warzecha <bartosz@warzecha.co.uk>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
